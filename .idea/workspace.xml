@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5185cb7-c080-4a82-ac0c-1638266ad678" name="Default Changelist" comment="" />
+    <list default="true" id="d5185cb7-c080-4a82-ac0c-1638266ad678" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Resources/personResource.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Resources/personResource.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Resources/personResourceCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Resources/personResourceCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -121,6 +129,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jgu6LDh67A7CeGiI1DFEGygojp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -147,7 +156,9 @@
       <updated>1604237881017</updated>
       <workItem from="1604237882359" duration="2453000" />
       <workItem from="1604299941954" duration="218000" />
-      <workItem from="1604310615062" duration="4849000" />
+      <workItem from="1604310615062" duration="5095000" />
+      <workItem from="1604315824266" duration="604000" />
+      <workItem from="1604316851073" duration="1335000" />
     </task>
     <servers />
   </component>
@@ -163,6 +174,14 @@
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state x="370" y="251" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.994@0.0.1280.994" timestamp="1604313318534" />
+    <state x="515" y="394" width="570" height="318" key="Github.ShareDialog" timestamp="1604315562637">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="515" y="394" width="570" height="318" key="Github.ShareDialog/0.0.1280.994@0.0.1280.994" timestamp="1604315562637" />
+    <state x="436" y="201" key="Github.UntrackedFilesDialog" timestamp="1604315569364">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="436" y="201" key="Github.UntrackedFilesDialog/0.0.1280.994@0.0.1280.994" timestamp="1604315569364" />
     <state x="426" y="219" key="NewPhpClassDialog" timestamp="1604311543561">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
