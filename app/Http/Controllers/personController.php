@@ -5,9 +5,10 @@ namespace App\Http\Controllers;
 use App\Http\Resources\personResource;
 use App\Http\Resources\personResourceCollection;
 use App\Models\person;
+use http\Env\Response;
 use Illuminate\Http\Request;
 
-class personControlle extends Controller
+class personController extends Controller
 {
 
 
@@ -36,6 +37,13 @@ class personControlle extends Controller
     {
         $person->update($request->all());
         return new personResource($person);
+    }
+
+    public function destroy(person $person)
+    {
+        $person->delete();
+        return response()->json();
+
     }
 
 }

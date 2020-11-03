@@ -15,5 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::apiResource('/person',
-    'App\Http\Controllers\personControlle');
+    'App\Http\Controllers\personController');
+
+
 
